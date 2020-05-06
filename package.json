@@ -1,0 +1,25 @@
+{
+  "name": "is-sinhalese",
+  "version": "1.0.0",
+  "description": "A JS module to check if a given string is a word from Sinhalese language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slwdc/is-sinhalese.git"
+  },
+  "keywords": [
+    "sinhalese",
+    "languages",
+    "i18n",
+    "slwdc"
+  ],
+  "author": "Ayesh Karunaratne <ayesh@ayesh.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slwdc/is-sinhalese/issues"
+  },
+  "homepage": "https://github.com/slwdc/is-sinhalese#readme"
+}
